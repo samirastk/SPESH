@@ -1,2 +1,3 @@
-# SPESH
-Website to Purchase Paintings, created using HTML, PHP and JavaScript. MySQL used for the database.
+# CPSC471-F22-Project
+  Project completed by Sayma Haque, Samira Khan, and Michele Pham
+ 
